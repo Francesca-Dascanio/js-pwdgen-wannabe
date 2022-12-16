@@ -16,6 +16,3 @@ console.log('La password digitata è: ', nome.toLowerCase() + cognome.toLowerCas
 
 //Visualizzazione password in HTML
 document.getElementById('my-password').innerHTML = psw; 
-
-
-//Da qui in avanti prove per rendere lowercase la password
